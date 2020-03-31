@@ -1,8 +1,8 @@
 # Page settings
 
-baseURL = "http://example.org/"
-languageCode = "en"
-title = ""
+baseURL = "http://lepe.xyz/"
+languageCode = "es"
+title = "Lepe"
 theme = "hugo-devresume-theme"
 googleAnalytics = "UA-XXXXXXX-Y"
 
